@@ -1,0 +1,215 @@
+Year,Team,Wins,Losses,WP,GB,Payroll
+2000,New York Yankees,87,74,.540,0,"$92,538,260"
+2000,Boston Red Sox,85,77,.525,2½,"$77,940,333"
+2000,Toronto Blue Jays,83,79,.512,4½,"$46,238,333"
+2000,Baltimore Orioles,74,88,.457,13½,"$81,447,435"
+2000,Tampa Bay Devil Rays,69,92,.429,18,"$62,765,129"
+2000,Chicago White Sox,95,67,.586,0,"$31,133,500"
+2000,Cleveland Indians,90,72,.556,5,"$75,880,971"
+2000,Detroit Tigers,79,83,.488,16,"$58,265,167"
+2000,Kansas City Royals,77,85,.475,18,"$23,433,000"
+2000,Minnesota Twins,69,93,.426,26,"$16,519,500"
+2000,Oakland Athletics,91,70,.565,0,"$31,971,333"
+2000,Seattle Mariners,91,71,.562,½,"$58,915,000"
+2000,Anaheim Angels,82,80,.506,9½,"$51,464,167"
+2000,Texas Rangers,71,91,.438,20½,"$70,795,921"
+2001,New York Yankees,95,65,.594,0,"$109,791,893"
+2001,Boston Red Sox,82,79,.509,13½,"$109,558,908"
+2001,Toronto Blue Jays,80,82,.494,16,"$75,798,500"
+2001,Baltimore Orioles,63,98,.391,32½,"$72,426,328"
+2001,Tampa Bay Devil Rays,62,100,.383,34,"$54,798,500"
+2001,Cleveland Indians,91,71,.562,0,"$91,974,979"
+2001,Minnesota Twins,85,77,.525,6,"$24,350,000"
+2001,Chicago White Sox,83,79,.512,8,"$62,363,000"
+2001,Detroit Tigers,66,96,.407,25,"$49,831,167"
+2001,Kansas City Royals,65,97,.401,26,"$35,643,000"
+2001,Seattle Mariners,116,46,.716,0,"$75,652,500"
+2001,Oakland Athletics,102,60,.630,13,"$33,810,750"
+2001,Anaheim Angels,75,87,.463,41,"$46,568,180"
+2001,Texas Rangers,73,89,.451,43,"$88,504,421"
+2002,New York Yankees,103,58,.640,--,"$125,928,583"
+2002,Boston Red Sox,93,69,.574,10½,"$108,366,060"
+2002,Toronto Blue Jays,78,84,.481,25½,"$76,864,333"
+2002,Baltimore Orioles,67,95,.414,36½,"$60,493,487"
+2002,Tampa Bay Devil Rays,55,106,.342,48,"$34,380,000"
+2002,Minnesota Twins,94,67,.584,--,"$40,225,000"
+2002,Chicago White Sox,81,81,.500,13½,"$57,052,833"
+2002,Cleveland Indians,74,88,.457,20½,"$78,909,448"
+2002,Kansas City Royals,62,100,.383,32½,"$47,257,000"
+2002,Detroit Tigers,55,106,.342,39,"$55,048,000"
+2002,Oakland Athletics,103,59,.636,--,"$39,679,746"
+2002,Anaheim Angels,99,63,.611,4,"$61,721,667"
+2002,Seattle Mariners,93,69,.574,10,"$80,282,668"
+2002,Texas Rangers,72,90,.444,31,"$105,302,124"
+2002,Anaheim,162,"5,678",851,"1,603",333
+2002,Baltimore,162,"5,491",667,"1,353",311
+2002,Boston,162,"5,640",859,"1,560",348
+2002,Chicago,162,"5,502",856,"1,475",289
+2002,Cleveland,162,"5,423",739,"1,349",255
+2002,Detroit,161,"5,406",575,"1,340",265
+2002,Kansas City,162,"5,535",737,"1,415",285
+2002,Minnesota,161,"5,582",768,"1,518",348
+2002,New York,161,"5,601",897,"1,540",314
+2002,Oakland,162,"5,558",800,"1,450",279
+2002,Seattle,162,"5,569",814,"1,531",285
+2002,Tampa Bay,161,"5,604",673,"1,418",297
+2002,Texas,162,"5,618",843,"1,510",304
+2002,Toronto,162,"5,581",813,"1,457",305
+2002,Anaheim,99,63,3.69,7,14
+2002,Baltimore,67,95,4.46,8,3
+2002,Boston,93,69,3.75,5,17
+2002,Chicago,81,81,4.53,7,7
+2002,Cleveland,74,88,4.91,9,4
+2002,Detroit,55,106,4.92,11,7
+2002,Kansas City,62,100,5.21,12,6
+2002,Minnesota,94,67,4.12,8,9
+2002,New York,103,58,3.87,9,11
+2002,Oakland,103,59,3.68,9,19
+2002,Seattle,93,69,4.07,8,12
+2002,Tampa Bay,55,106,5.29,12,3
+2002,Texas,72,90,5.15,4,4
+2002,Toronto,78,84,4.80,6,6
+2003,New York Yankees,101,61,1,.623,--
+2003,Boston Red Sox,95,67,0,.586,6
+2003,Toronto Blue Jays,86,76,0,.531,15
+2003,Baltimore Orioles,71,91,1,.438,30
+2003,Tampa Bay Devil Rays,63,99,0,.389,38
+2003,Minnesota Twins,90,72,0,.556,--
+2003,Chicago White Sox,86,76,0,.531,4
+2003,Kansas City Royals,83,79,0,.512,7
+2003,Cleveland Indians,68,94,0,.420,22
+2003,Detroit Tigers,43,119,0,.265,47
+2003,Oakland Athletics,96,66,0,.593,--
+2003,Seattle Mariners,93,69,0,.574,3
+2003,Anaheim Angels,77,85,0,.475,19
+2003,Texas Rangers,71,91,0,.438,25
+2003,Anaheim,162,"5,487",736,"1,473",276
+2003,Baltimore,163,"5,665",743,"1,516",277
+2003,Boston,162,"5,769",961,"1,667",371
+2003,Chicago,162,"5,487",791,"1,445",303
+2003,Cleveland,162,"5,572",699,"1,413",296
+2003,Detroit,162,"5,466",591,"1,312",201
+2003,Kansas City,162,"5,568",836,"1,526",288
+2003,Minnesota,162,"5,655",801,"1,567",318
+2003,New York,163,"5,605",877,"1,518",304
+2003,Oakland,162,"5,497",768,"1,398",317
+2003,Seattle,162,"5,561",795,"1,509",290
+2003,Tampa Bay,162,"5,654",715,"1,501",298
+2003,Texas,162,"5,664",826,"1,506",274
+2003,Toronto,162,"5,661",894,"1,580",357
+2003,Anaheim,77,85,4.28,162,5
+2003,Baltimore,71,91,4.76,163,9
+2003,Boston,95,67,4.48,162,5
+2003,Chicago,86,76,4.17,162,12
+2003,Cleveland,68,94,4.21,162,5
+2003,Detroit,43,119,5.30,162,3
+2003,Kansas City,83,79,5.05,162,7
+2003,Minnesota,90,72,4.41,162,7
+2003,New York,101,61,4.02,163,8
+2003,Oakland,96,66,3.63,162,16
+2003,Seattle,93,69,3.76,162,8
+2003,Tampa Bay,63,99,4.93,162,7
+2003,Texas,71,91,5.67,162,4
+2003,Toronto,86,76,4.69,162,14
+2004,New York Yankees,101,61,0,.623,--
+2004,Boston Red Sox,98,64,0,.605,3
+2004,Baltimore Orioles,78,84,0,.481,23
+2004,Tampa Bay Devil Rays,70,91,0,.435,30½
+2004,Toronto Blue Jays,67,94,0,.416,33½
+2004,Minnesota Twins,92,70,0,.568,--
+2004,Chicago White Sox,83,79,0,.512,9
+2004,Cleveland Indians,80,82,0,.494,12
+2004,Detroit Tigers,72,90,0,.444,20
+2004,Kansas City Royals,58,104,0,.358,34
+2004,Anaheim Angels,92,70,0,.568,--
+2004,Oakland Athletics,91,71,0,.562,1
+2004,Texas Rangers,89,73,0,.549,3
+2004,Seattle Mariners,63,99,0,.389,29
+2005,New York Yankees,95,67,0,.586,--
+2005,Boston Red Sox,95,67,0,.586,--
+2005,Toronto Blue Jays,80,82,0,.494,15
+2005,Baltimore Orioles,74,88,0,.457,21
+2005,Tampa Bay Devil Rays,67,95,0,.414,28
+2005,Chicago White Sox,99,63,0,.611,--
+2005,Cleveland Indians,93,69,0,.574,6
+2005,Minnesota Twins,83,79,0,.512,16
+2005,Detroit Tigers,71,91,0,.438,28
+2005,Kansas City Royals,56,106,0,.346,43
+2005,Los Angeles Angels of Anaheim,95,67,0,.586,--
+2005,Oakland Athletics,88,74,0,.543,7
+2005,Texas Rangers,79,83,0,.488,16
+2005,Seattle Mariners,69,93,0,.426,26
+2009,New York Yankees,103,59,0,.636,--
+2009,Boston Red Sox,95,67,0,.586,8
+2009,Tampa Bay Rays,84,78,0,.519,19
+2009,Toronto Blue Jays,75,87,0,.463,28
+2009,Baltimore Orioles,64,98,0,.395,39
+2009,Minnesota Twins,87,76,0,.534,--
+2009,Detroit Tigers,86,77,0,.528,1
+2009,Chicago White Sox,79,83,0,.488,7½
+2009,Cleveland Indians,65,97,0,.401,21½
+2009,Kansas City Royals,65,97,0,.401,21½
+2009,Los Angeles Angels,97,65,0,.599,--
+2009,Texas Rangers,87,75,0,.537,10
+2009,Seattle Mariners,85,77,0,.525,12
+2009,Oakland Athletics,75,87,0,.463,22
+2013,Boston Red Sox,97,65,0,.599,--
+2013,Tampa Bay Rays,92,71,0,.564,5½
+2013,Baltimore Orioles,85,77,0,.525,12
+2013,New York Yankees,85,77,0,.525,12
+2013,Toronto Blue Jays,74,88,0,.457,23
+2013,Detroit Tigers,93,69,0,.574,--
+2013,Cleveland Indians,92,70,0,.568,1
+2013,Kansas City Royals,86,76,0,.531,7
+2013,Minnesota Twins,66,96,0,.407,27
+2013,Chicago White Sox,63,99,0,.389,30
+2013,Oakland Athletics,96,66,0,.593,--
+2013,Texas Rangers,91,72,0,.558,5½
+2013,Los Angeles Angels,78,84,0,.481,18
+2013,Seattle Mariners,71,91,0,.438,25
+2013,Houston Astros,51,111,0,.315,45
+2015,Toronto Blue Jays,93,69,0,.574,--
+2015,New York Yankees,87,75,0,.537,6
+2015,Baltimore Orioles,81,81,0,.500,12
+2015,Tampa Bay Rays,80,82,0,.494,13
+2015,Boston Red Sox,78,84,0,.481,15
+2015,Kansas City Royals,95,67,0,.586,--
+2015,Minnesota Twins,83,79,0,.512,12
+2015,Cleveland Indians,81,80,0,.503,13½
+2015,Chicago White Sox,76,86,0,.469,19
+2015,Detroit Tigers,74,87,0,.460,20½
+2015,Texas Rangers,88,74,0,.543,--
+2015,Houston Astros,86,76,0,.531,2
+2015,Los Angeles Angels,85,77,0,.525,3
+2015,Seattle Mariners,76,86,0,.469,12
+2015,Oakland Athletics,68,94,0,.420,20
+2016,Boston Red Sox,93,69,0,.574,--
+2016,Baltimore Orioles,89,73,0,.549,4
+2016,Toronto Blue Jays,89,73,0,.549,4
+2016,New York Yankees,84,78,0,.519,9
+2016,Tampa Bay Rays,68,94,0,.420,25
+2016,Cleveland Indians,94,67,0,.584,--
+2016,Detroit Tigers,86,75,0,.534,8
+2016,Kansas City Royals,81,81,0,.500,13.5
+2016,Chicago White Sox,78,84,0,.481,16.5
+2016,Minnesota Twins,59,103,0,.364,35.5
+2016,Texas Rangers,95,67,0,.586,--
+2016,Seattle Mariners,86,76,0,.531,9
+2016,Houston Astros,84,78,0,.519,11
+2016,Los Angeles Angels,74,88,0,.457,21
+2016,Oakland Athletics,69,93,0,.426,26
+2019,New York Yankees,103,59,0,.636,--
+2019,Tampa Bay Rays,96,66,0,.593,7.0
+2019,Boston Red Sox,84,78,0,.519,19.0
+2019,Toronto Blue Jays,67,95,0,.414,36.0
+2019,Baltimore Orioles,54,108,0,.333,49.0
+2019,Minnesota Twins,101,61,0,.623,--
+2019,Cleveland Indians,93,69,0,.574,8.0
+2019,Chicago White Sox,72,89,0,.447,28.5
+2019,Kansas City Royals,59,103,0,.364,42.0
+2019,Detroit Tigers,47,114,0,.292,53.5
+2019,Houston Astros,107,55,0,.660,--
+2019,Oakland Athletics,97,65,0,.599,10.0
+2019,Texas Rangers,78,84,0,.481,29.0
+2019,Los Angeles Angels,72,90,0,.444,35.0
+2019,Seattle Mariners,68,94,0,.420,39.0
